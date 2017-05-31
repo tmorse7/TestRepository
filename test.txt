@@ -1,3 +1,5 @@
 This is a test file. Just checking to see how to add to a repository!
 
 I am editing this remotely!
+
+Now I'm editing locally!
